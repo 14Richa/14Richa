@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A software developer with a passion for open source. I've had the pleasure of contributing to projects at Mozilla and Layer 5, and I'm always looking for new ways to get involved in the community.😄
+
+When I'm not coding, you can usually find me exploring new parts of the world or enjoying myself in different cultures. I believe that travel broadens the mind and helps us see the world from new perspectives.🌱
+
+Thanks for stopping by my profile! Feel free to check out my projects and don't hesitate to get in touch. 
