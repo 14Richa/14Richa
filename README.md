@@ -1,4 +1,4 @@
-### Hi there 👋
+### Richa Sharma
 
 <!--
 **14Richa/14Richa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
