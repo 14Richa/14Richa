@@ -19,4 +19,4 @@ A software developer with a passion for open source. I've had the pleasure of co
 
 When I'm not coding, you might find me exploring new destinations or getting my sweat on at cult.fit. I truly believe that travel and fitness are key ingredients to a happy, healthy life. They keep me energized and inspired, and I always come back to my work with fresh ideas and perspectives.🌱
 
-Thanks for stopping by my profile! Feel free to check out my projects and don't hesitate to get in touch. 
+Thanks for stopping by my profile! Feel free to check out my projects and don't hesitate to get in touch.😄
