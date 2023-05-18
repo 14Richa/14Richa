@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software developer with a passion for open source and giving back to the community. Selected for GSoC 2023 with Postman and AsyncAPI, and a former participant of Outreachy 2020 with Mozilla. I've had the pleasure of contributing to projects at Mozilla and Layer 5, and I'm always looking for new ways to get involved in the community. 
+Software Engineer with a passion for open source and giving back to the community. Selected for GSoC 2023 with Postman and AsyncAPI, and a former participant of Outreachy 2020 with Mozilla. I've had the pleasure of contributing to projects at Mozilla and Layer 5, and I'm always looking for new ways to get involved in the community. 
 
 When I'm not coding, you might find me exploring new destinations or getting my sweat on at cult.fit. I truly believe that travel and fitness are key ingredients to a happy, healthy life. They keep me energized and inspired, and I always come back to my work with fresh ideas and perspectives. 
 
